@@ -1,0 +1,6 @@
+Now that you've learned a bit about Git and Github, reflect upon and answer the following questions.
+
+What is the difference between Git and Github? Git is the system that lets you manage and track your code history, GitHub is a service that lets you manage repos which others can contribute to
+Why use Git? // it is a software for tracking changes in files while developing source code during development
+Why use Github? // to collaborate and work on code with others - can work on projects together from anywhere
+What is the payoff to using Git and Github? // saves every version of code, projects can be worked on from anywhere with multiple contributors
